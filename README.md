@@ -17,6 +17,8 @@ Competitive Edge through Visualization – With interactive charts and detailed 
 # Repository Struture
   * Data used:- https://github.com/AVN-456/Insurance-Analysis-Dashboard/blob/main/Insurance%20Analytics%20Data%20set.zip < br />
   * Dashboard:- Power BI
+  * https://github.com/AVN-456/Insurance-Analysis-Dashboard/blob/main/Insurance%20Analysis%20Dashboard.pbix < br />
+  * Dashboard:- Tableau
   * 
   * Images:- Power BI
   * ![Screenshot (280)](https://github.com/user-attachments/assets/59230ba0-7170-46a3-89b9-da6ac25c314e)
