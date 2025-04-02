@@ -17,4 +17,5 @@ Competitive Edge through Visualization – With interactive charts and detailed 
 # Repository Struture
   * Data used
   * Dashboard
-  * Images 
+  * Images
+  * 
