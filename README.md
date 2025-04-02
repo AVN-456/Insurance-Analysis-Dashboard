@@ -24,6 +24,8 @@ With interactive charts and detailed analytics, this project stands out by trans
   * https://github.com/AVN-456/Insurance-Analysis-Dashboard/blob/main/Insurance%20Analysis%20Dashboard.pbix < br />
   * Dashboard:- Tableau
   * https://github.com/AVN-456/Insurance-Analysis-Dashboard/blob/main/Insurance%20Analysis_v2024.1%20(1).twbx < br />
+  * SQL File :-
+    https://github.com/AVN-456/Insurance-Analysis-Dashboard/blob/main/Project%20-%20Insurance%20Analysis.sql < br />
   * Images:- Power BI
   * ![Screenshot (280)](https://github.com/user-attachments/assets/59230ba0-7170-46a3-89b9-da6ac25c314e)
                                                                                                                                           
