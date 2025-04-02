@@ -15,7 +15,13 @@ Data-Driven Executive Performance Analysis – The inclusion of metrics like the
 
 Competitive Edge through Visualization – With interactive charts and detailed analytics, this project stands out by transforming raw data into clear, actionable insights, allowing stakeholders to make informed and strategic business decisions.
 # Repository Struture
-  * Data used
+  * Data used:- 
   * Dashboard
   * Images
-  * 
+  * ![Screenshot (280)](https://github.com/user-attachments/assets/59230ba0-7170-46a3-89b9-da6ac25c314e)
+  * ![Screenshot (283)](https://github.com/user-attachments/assets/794c6f2d-d5c2-400d-9ce0-b1ab23b89e59)
+
+
+# Feedback
+Your feedback is welcome! If You'd like to collaborate on same project or discuss data analysis opportunities, feel free to reach out.
+
