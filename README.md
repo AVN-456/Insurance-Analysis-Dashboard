@@ -14,3 +14,7 @@ Actionable Insights for Growth – By analyzing achievements against targets and
 Data-Driven Executive Performance Analysis – The inclusion of metrics like the number of meetings and invoices per account executive enables leadership to assess productivity, refine sales approaches, and enhance operational efficiency.
 
 Competitive Edge through Visualization – With interactive charts and detailed analytics, this project stands out by transforming raw data into clear, actionable insights, allowing stakeholders to make informed and strategic business decisions.
+# Repository Struture
+  * Data used
+  * Dashboard
+  * Images 
