@@ -1,5 +1,5 @@
 # Insurance-Analysis-Dashboard
-This Power BI Project of Insurance analysis provides the comprehensive analysis of various aspects such as customer demographics, policy performance, claim analysis, and revenue generation.
+This Power BI and Tableau Project of Insurance analysis provides the comprehensive analysis of various aspects such as customer demographics, policy performance, claim analysis, and revenue generation.
 # Key Insights 
 Target Calculation: Determines the budgeted target for each income class.
 Invoice Value: Sums up the total invoiced amount for the specified income class.
